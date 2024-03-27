@@ -8,7 +8,7 @@
 
 RookMove is a 1v1 Game using Phaser and Socket.io. The game will be played on an 8x8 chessboard with a single rook piece. Two players take turns to move the rook either left or down, with the objective of reaching the bottom-left corner before their opponent.
 
-💻 Rookmove is Live at https://hiway.ashwincodes.com
+💻 Rookmove is Live at 
 
 # ☕️ Tech Stack and Approaches
 
@@ -19,7 +19,7 @@ JavaScript, PhaserJS 3.6, Vite, NodeJS, ExpressJS, Socket.IO
 Clone repository with
 
 ```bash
-$ git clone https://github.com/Ashwin-Codes/rookmove.git
+
 ```
 
 Install client and server dependencies
