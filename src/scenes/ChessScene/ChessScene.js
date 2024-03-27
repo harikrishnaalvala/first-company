@@ -55,7 +55,7 @@ socket.on("opponent-moved", (moveTo) => {
 			return
 		}
 		gameState.loader += 1
-	}, 1000)
+	},1000)
 })
 
 socket.on("ready-next-move", (move) => {
